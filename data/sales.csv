@@ -1,0 +1,13 @@
+customer_id,product,category,revenue,date,city
+101,Phone,Electronics,20000,2024-01-10,Hyderabad
+102,Laptop,Electronics,50000,2024-01-12,Bangalore
+101,Headphones,Electronics,2000,2024-01-15,Hyderabad
+103,Tablet,Electronics,15000,2024-02-01,Chennai
+102,Phone,Electronics,22000,2024-02-05,Bangalore
+104,Laptop,Electronics,52000,2024-02-10,Delhi
+105,Tablet,Electronics,18000,2024-02-15,Mumbai
+101,Laptop,Electronics,48000,2024-03-01,Hyderabad
+103,Phone,Electronics,21000,2024-03-05,Chennai
+106,Smartwatch,Electronics,12000,2024-03-10,Pune
+107,Camera,Electronics,30000,2024-03-15,Delhi
+108,Phone,Electronics,25000,2024-03-18,Mumbai
